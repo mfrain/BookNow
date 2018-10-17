@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_bn_thing" label="Bike" max_length="40" name="x_bn_bike" type="collection">
+        <element label="Comment" max_length="1000" name="comment" type="string"/>
+        <element label="Condition" max_length="40" name="condition" type="string"/>
+        <element label="Serial number" max_length="100" name="serial_number" type="string"/>
+    </element>
+</database>
